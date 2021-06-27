@@ -10,5 +10,6 @@ Assuming that you already have virtualenv installed, and you are on the repo fol
 
 ```python
 python3 -m virtualenv venv
+source venv/bin/activate
 pip install -r requirements.txt
 ```
